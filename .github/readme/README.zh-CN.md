@@ -74,7 +74,7 @@ Install the i-have-adhd skill/plugin from https://github.com/ayghri/i-have-adhd,
 1. 先说下一步行动。
 2. 多步骤任务使用编号。
 3. 以一个具体的下一步收尾。
-4. 抑制离题内容。
+4. 将离题内容作为待办事项提出。
 5. 每轮重述当前状态。
 6. 给出具体的时间估计（以分钟计，不说“一会儿”）。
 7. 让完成的工作看得见。

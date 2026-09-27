@@ -68,7 +68,7 @@ Uma skill para o seu assistente de código que impede que ele enterre a resposta
 1. Comece pela próxima ação.
 2. Numere tarefas de múltiplos passos.
 3. Termine com um próximo passo concreto.
-4. Corte as tangentes.
+4. Ofereça as tangentes como tarefas pendentes.
 5. Reafirme o estado atual a cada turno.
 6. Estimativas de tempo específicas (minutos, não "um pouco").
 7. Deixe as conquistas visíveis.

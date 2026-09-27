@@ -73,7 +73,7 @@ Una *skill* para tu asistente de código que evita que entierre la respuesta. Ac
 1. Empieza con la siguiente acción.
 2. Numera las tareas de varios pasos.
 3. Termina con un paso concreto a seguir.
-4. Suprime las tangentes.
+4. Ofrece las tangentes como tareas pendientes.
 5. Reafirma el estado en cada turno.
 6. Estimaciones de tiempo específicas (minutos, no "un poco").
 7. Haz visibles los logros.

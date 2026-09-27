@@ -65,7 +65,7 @@ Sebuah skill untuk asisten coding-mu yang mencegahnya mengubur jawaban di tengah
 1. Mulai dengan langkah selanjutnya.
 2. Beri nomor pada tugas yang memiliki beberapa langkah.
 3. Akhiri dengan langkah selanjutnya yang konkret.
-4. Potong pembahasan yang melebar (tidak relevan).
+4. Tawarkan pembahasan yang melebar sebagai item daftar tugas.
 5. Tegaskan kembali status terkini di setiap giliran.
 6. Berikan estimasi waktu yang spesifik (dalam menit, bukan "sebentar").
 7. Buat pencapaian terlihat jelas.

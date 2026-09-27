@@ -68,7 +68,7 @@ Một skill dành cho trợ lý lập trình, giúp câu trả lời đi thẳng
 1. Bắt đầu ngay bằng hành động tiếp theo.
 2. Đánh số các công việc gồm nhiều bước.
 3. Kết thúc bằng một bước tiếp theo cụ thể.
-4. Loại bỏ các nội dung lan man.
+4. Đề xuất các nội dung lan man thành mục việc cần làm.
 5. Nhắc lại trạng thái hiện tại ở mỗi lượt.
 6. Ước tính thời gian cụ thể (tính bằng phút, không nói chung chung).
 7. Làm nổi bật những kết quả đã đạt được.
