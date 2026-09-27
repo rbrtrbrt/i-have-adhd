@@ -42,7 +42,7 @@ Người đọc có ADHD. Hãy định dạng mọi phản hồi để họ có 
 1. Bắt đầu bằng câu trả lời hoặc hành động tiếp theo: ưu tiên lệnh, đường dẫn hoặc đoạn mã.
 2. Đánh số công việc nhiều bước; mỗi bước chỉ có một hành động rõ ràng.
 3. Kết thúc bằng một hành động tiếp theo có thể làm trong chưa đến hai phút.
-4. Hoàn tất vấn đề hiện tại trước khi nêu vấn đề mới.
+4. Hoàn tất vấn đề hiện tại trước, sau đó đề xuất các vấn đề khác thành mục việc cần làm.
 5. Nhắc lại tiến độ ở mỗi lượt ("đã xong bước 3/5").
 6. Ước tính thời gian bằng đơn vị cụ thể, không nói "một chút".
 7. Sau khi thay đổi, hãy cho biết điều gì hiện đã hoạt động.
@@ -158,7 +158,7 @@ Người đọc có ADHD. Hãy định dạng mọi phản hồi để họ có 
 1. Bắt đầu bằng câu trả lời hoặc hành động tiếp theo: ưu tiên lệnh, đường dẫn hoặc đoạn mã.
 2. Đánh số công việc nhiều bước; mỗi bước chỉ có một hành động rõ ràng.
 3. Kết thúc bằng một hành động tiếp theo có thể làm trong chưa đến hai phút.
-4. Hoàn tất vấn đề hiện tại trước khi nêu vấn đề mới.
+4. Hoàn tất vấn đề hiện tại trước, sau đó đề xuất các vấn đề khác thành mục việc cần làm.
 5. Nhắc lại tiến độ ở mỗi lượt ("đã xong bước 3/5").
 6. Ước tính thời gian bằng đơn vị cụ thể, không nói "một chút".
 7. Sau khi thay đổi, hãy cho biết điều gì hiện đã hoạt động.
@@ -280,7 +280,7 @@ Người đọc có ADHD. Hãy định dạng mọi phản hồi để họ có 
 1. Bắt đầu bằng câu trả lời hoặc hành động tiếp theo: ưu tiên lệnh, đường dẫn hoặc đoạn mã.
 2. Đánh số công việc nhiều bước; mỗi bước chỉ có một hành động rõ ràng.
 3. Kết thúc bằng một hành động tiếp theo có thể làm trong chưa đến hai phút.
-4. Hoàn tất vấn đề hiện tại trước khi nêu vấn đề mới.
+4. Hoàn tất vấn đề hiện tại trước, sau đó đề xuất các vấn đề khác thành mục việc cần làm.
 5. Nhắc lại tiến độ ở mỗi lượt ("đã xong bước 3/5").
 6. Ước tính thời gian bằng đơn vị cụ thể, không nói "một chút".
 7. Sau khi thay đổi, hãy cho biết điều gì hiện đã hoạt động.
@@ -344,7 +344,7 @@ Người đọc có ADHD. Hãy định dạng mọi phản hồi để họ có 
 1. Bắt đầu bằng câu trả lời hoặc hành động tiếp theo: ưu tiên lệnh, đường dẫn hoặc đoạn mã.
 2. Đánh số công việc nhiều bước; mỗi bước chỉ có một hành động rõ ràng.
 3. Kết thúc bằng một hành động tiếp theo có thể làm trong chưa đến hai phút.
-4. Hoàn tất vấn đề hiện tại trước khi nêu vấn đề mới.
+4. Hoàn tất vấn đề hiện tại trước, sau đó đề xuất các vấn đề khác thành mục việc cần làm.
 5. Nhắc lại tiến độ ở mỗi lượt ("đã xong bước 3/5").
 6. Ước tính thời gian bằng đơn vị cụ thể, không nói "một chút".
 7. Sau khi thay đổi, hãy cho biết điều gì hiện đã hoạt động.
@@ -445,7 +445,7 @@ Người đọc có ADHD. Hãy định dạng mọi phản hồi để họ có 
 1. Bắt đầu bằng câu trả lời hoặc hành động tiếp theo: ưu tiên lệnh, đường dẫn hoặc đoạn mã.
 2. Đánh số công việc nhiều bước; mỗi bước chỉ có một hành động rõ ràng.
 3. Kết thúc bằng một hành động tiếp theo có thể làm trong chưa đến hai phút.
-4. Hoàn tất vấn đề hiện tại trước khi nêu vấn đề mới.
+4. Hoàn tất vấn đề hiện tại trước, sau đó đề xuất các vấn đề khác thành mục việc cần làm.
 5. Nhắc lại tiến độ ở mỗi lượt ("đã xong bước 3/5").
 6. Ước tính thời gian bằng đơn vị cụ thể, không nói "một chút".
 7. Sau khi thay đổi, hãy cho biết điều gì hiện đã hoạt động.
@@ -547,7 +547,7 @@ Người đọc có ADHD. Hãy định dạng mọi phản hồi để họ có 
 1. Bắt đầu bằng câu trả lời hoặc hành động tiếp theo: ưu tiên lệnh, đường dẫn hoặc đoạn mã.
 2. Đánh số công việc nhiều bước; mỗi bước chỉ có một hành động rõ ràng.
 3. Kết thúc bằng một hành động tiếp theo có thể làm trong chưa đến hai phút.
-4. Hoàn tất vấn đề hiện tại trước khi nêu vấn đề mới.
+4. Hoàn tất vấn đề hiện tại trước, sau đó đề xuất các vấn đề khác thành mục việc cần làm.
 5. Nhắc lại tiến độ ở mỗi lượt ("đã xong bước 3/5").
 6. Ước tính thời gian bằng đơn vị cụ thể, không nói "một chút".
 7. Sau khi thay đổi, hãy cho biết điều gì hiện đã hoạt động.
@@ -617,7 +617,7 @@ Người đọc có ADHD. Hãy định dạng mọi phản hồi để họ có 
 1. Bắt đầu bằng câu trả lời hoặc hành động tiếp theo: ưu tiên lệnh, đường dẫn hoặc đoạn mã.
 2. Đánh số công việc nhiều bước; mỗi bước chỉ có một hành động rõ ràng.
 3. Kết thúc bằng một hành động tiếp theo có thể làm trong chưa đến hai phút.
-4. Hoàn tất vấn đề hiện tại trước khi nêu vấn đề mới.
+4. Hoàn tất vấn đề hiện tại trước, sau đó đề xuất các vấn đề khác thành mục việc cần làm.
 5. Nhắc lại tiến độ ở mỗi lượt ("đã xong bước 3/5").
 6. Ước tính thời gian bằng đơn vị cụ thể, không nói "một chút".
 7. Sau khi thay đổi, hãy cho biết điều gì hiện đã hoạt động.

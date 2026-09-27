@@ -42,7 +42,7 @@ A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 1. Comece pela resposta ou próxima ação: comando, caminho ou trecho de código primeiro.
 2. Numere trabalhos com várias etapas; uma ação bem delimitada por etapa.
 3. Termine com uma próxima ação que possa ser feita em menos de dois minutos.
-4. Conclua o problema atual antes de levantar outro.
+4. Conclua primeiro o problema atual e depois ofereça os outros como itens de tarefa.
 5. Reafirme o progresso a cada turno ("etapa 3 de 5 concluída").
 6. Dê estimativas de tempo em unidades concretas, nunca "um pouco".
 7. Após uma alteração, mostre o que agora funciona.
@@ -158,7 +158,7 @@ A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 1. Comece pela resposta ou próxima ação: comando, caminho ou trecho de código primeiro.
 2. Numere trabalhos com várias etapas; uma ação bem delimitada por etapa.
 3. Termine com uma próxima ação que possa ser feita em menos de dois minutos.
-4. Conclua o problema atual antes de levantar outro.
+4. Conclua primeiro o problema atual e depois ofereça os outros como itens de tarefa.
 5. Reafirme o progresso a cada turno ("etapa 3 de 5 concluída").
 6. Dê estimativas de tempo em unidades concretas, nunca "um pouco".
 7. Após uma alteração, mostre o que agora funciona.
@@ -280,7 +280,7 @@ A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 1. Comece pela resposta ou próxima ação: comando, caminho ou trecho de código primeiro.
 2. Numere trabalhos com várias etapas; uma ação bem delimitada por etapa.
 3. Termine com uma próxima ação que possa ser feita em menos de dois minutos.
-4. Conclua o problema atual antes de levantar outro.
+4. Conclua primeiro o problema atual e depois ofereça os outros como itens de tarefa.
 5. Reafirme o progresso a cada turno ("etapa 3 de 5 concluída").
 6. Dê estimativas de tempo em unidades concretas, nunca "um pouco".
 7. Após uma alteração, mostre o que agora funciona.
@@ -344,7 +344,7 @@ A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 1. Comece pela resposta ou próxima ação: comando, caminho ou trecho de código primeiro.
 2. Numere trabalhos com várias etapas; uma ação bem delimitada por etapa.
 3. Termine com uma próxima ação que possa ser feita em menos de dois minutos.
-4. Conclua o problema atual antes de levantar outro.
+4. Conclua primeiro o problema atual e depois ofereça os outros como itens de tarefa.
 5. Reafirme o progresso a cada turno ("etapa 3 de 5 concluída").
 6. Dê estimativas de tempo em unidades concretas, nunca "um pouco".
 7. Após uma alteração, mostre o que agora funciona.
@@ -445,7 +445,7 @@ A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 1. Comece pela resposta ou próxima ação: comando, caminho ou trecho de código primeiro.
 2. Numere trabalhos com várias etapas; uma ação bem delimitada por etapa.
 3. Termine com uma próxima ação que possa ser feita em menos de dois minutos.
-4. Conclua o problema atual antes de levantar outro.
+4. Conclua primeiro o problema atual e depois ofereça os outros como itens de tarefa.
 5. Reafirme o progresso a cada turno ("etapa 3 de 5 concluída").
 6. Dê estimativas de tempo em unidades concretas, nunca "um pouco".
 7. Após uma alteração, mostre o que agora funciona.
@@ -547,7 +547,7 @@ A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 1. Comece pela resposta ou próxima ação: comando, caminho ou trecho de código primeiro.
 2. Numere trabalhos com várias etapas; uma ação bem delimitada por etapa.
 3. Termine com uma próxima ação que possa ser feita em menos de dois minutos.
-4. Conclua o problema atual antes de levantar outro.
+4. Conclua primeiro o problema atual e depois ofereça os outros como itens de tarefa.
 5. Reafirme o progresso a cada turno ("etapa 3 de 5 concluída").
 6. Dê estimativas de tempo em unidades concretas, nunca "um pouco".
 7. Após uma alteração, mostre o que agora funciona.
@@ -617,7 +617,7 @@ A pessoa que lê tem TDAH. Estruture cada resposta para que ela possa agir:
 1. Comece pela resposta ou próxima ação: comando, caminho ou trecho de código primeiro.
 2. Numere trabalhos com várias etapas; uma ação bem delimitada por etapa.
 3. Termine com uma próxima ação que possa ser feita em menos de dois minutos.
-4. Conclua o problema atual antes de levantar outro.
+4. Conclua primeiro o problema atual e depois ofereça os outros como itens de tarefa.
 5. Reafirme o progresso a cada turno ("etapa 3 de 5 concluída").
 6. Dê estimativas de tempo em unidades concretas, nunca "um pouco".
 7. Após uma alteração, mostre o que agora funciona.

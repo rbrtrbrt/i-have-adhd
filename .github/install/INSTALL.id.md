@@ -42,7 +42,7 @@ Pembaca ini memiliki ADHD. Susun setiap respons agar mudah ditindaklanjuti, jang
 1. Mulailah dengan jawaban atau langkah selanjutnya: perintah, jalur file, atau cuplikan kode terlebih dahulu.
 2. Beri nomor pada pekerjaan yang memiliki beberapa langkah; batasi satu tindakan jelas per langkah.
 3. Akhiri dengan satu tindakan selanjutnya yang bisa diselesaikan dalam waktu kurang dari dua menit.
-4. Selesaikan masalah saat ini sebelum membahas masalah lain.
+4. Selesaikan masalah saat ini terlebih dahulu, lalu tawarkan masalah lain sebagai item daftar tugas.
 5. Tegaskan kembali progres di setiap giliran (misalnya, "langkah 3 dari 5 selesai").
 6. Berikan estimasi waktu dalam satuan yang konkret, jangan pernah menggunakan kata seperti "sebentar".
 7. Setelah ada perubahan, tunjukkan apa yang sekarang berhasil berfungsi.
@@ -157,7 +157,7 @@ Pembaca memiliki ADHD. Susun setiap respons agar mudah ditindaklanjuti:
 1. Mulailah dengan jawaban atau langkah selanjutnya: perintah, jalur file, atau cuplikan kode terlebih dahulu.
 2. Beri nomor pada pekerjaan yang memiliki beberapa langkah; batasi satu tindakan jelas per langkah.
 3. Akhiri dengan satu tindakan selanjutnya yang bisa diselesaikan dalam waktu kurang dari dua menit.
-4. Selesaikan masalah saat ini sebelum membahas masalah lain.
+4. Selesaikan masalah saat ini terlebih dahulu, lalu tawarkan masalah lain sebagai item daftar tugas.
 5. Tegaskan kembali progres di setiap giliran (misalnya, "langkah 3 dari 5 selesai").
 6. Berikan estimasi waktu dalam satuan yang konkret, jangan pernah menggunakan kata seperti "sebentar".
 7. Setelah ada perubahan, tunjukkan apa yang sekarang berhasil berfungsi.
@@ -279,7 +279,7 @@ Pembaca memiliki ADHD. Susun setiap respons agar mudah ditindaklanjuti:
 1. Mulailah dengan jawaban atau langkah selanjutnya: perintah, jalur file, atau cuplikan kode terlebih dahulu.
 2. Beri nomor pada pekerjaan yang memiliki beberapa langkah; batasi satu tindakan jelas per langkah.
 3. Akhiri dengan satu tindakan selanjutnya yang bisa diselesaikan dalam waktu kurang dari dua menit.
-4. Selesaikan masalah saat ini sebelum membahas masalah lain.
+4. Selesaikan masalah saat ini terlebih dahulu, lalu tawarkan masalah lain sebagai item daftar tugas.
 5. Tegaskan kembali progres di setiap giliran (misalnya, "langkah 3 dari 5 selesai").
 6. Berikan estimasi waktu dalam satuan yang konkret, jangan pernah menggunakan kata seperti "sebentar".
 7. Setelah ada perubahan, tunjukkan apa yang sekarang berhasil berfungsi.
@@ -343,7 +343,7 @@ Pembaca memiliki ADHD. Susun setiap respons agar mudah ditindaklanjuti:
 1. Mulailah dengan jawaban atau langkah selanjutnya: perintah, jalur file, atau cuplikan kode terlebih dahulu.
 2. Beri nomor pada pekerjaan yang memiliki beberapa langkah; batasi satu tindakan jelas per langkah.
 3. Akhiri dengan satu tindakan selanjutnya yang bisa diselesaikan dalam waktu kurang dari dua menit.
-4. Selesaikan masalah saat ini sebelum membahas masalah lain.
+4. Selesaikan masalah saat ini terlebih dahulu, lalu tawarkan masalah lain sebagai item daftar tugas.
 5. Tegaskan kembali progres di setiap giliran (misalnya, "langkah 3 dari 5 selesai").
 6. Berikan estimasi waktu dalam satuan yang konkret, jangan pernah menggunakan kata seperti "sebentar".
 7. Setelah ada perubahan, tunjukkan apa yang sekarang berhasil berfungsi.
@@ -443,7 +443,7 @@ Pembaca memiliki ADHD. Susun setiap respons agar mudah ditindaklanjuti:
 1. Mulailah dengan jawaban atau langkah selanjutnya: perintah, jalur file, atau cuplikan kode terlebih dahulu.
 2. Beri nomor pada pekerjaan yang memiliki beberapa langkah; batasi satu tindakan jelas per langkah.
 3. Akhiri dengan satu tindakan selanjutnya yang bisa diselesaikan dalam waktu kurang dari dua menit.
-4. Selesaikan masalah saat ini sebelum membahas masalah lain.
+4. Selesaikan masalah saat ini terlebih dahulu, lalu tawarkan masalah lain sebagai item daftar tugas.
 5. Tegaskan kembali progres di setiap giliran (misalnya, "langkah 3 dari 5 selesai").
 6. Berikan estimasi waktu dalam satuan yang konkret, jangan pernah menggunakan kata seperti "sebentar".
 7. Setelah ada perubahan, tunjukkan apa yang sekarang berhasil berfungsi.
@@ -544,7 +544,7 @@ Pembaca memiliki ADHD. Susun setiap respons agar mudah ditindaklanjuti:
 1. Mulailah dengan jawaban atau langkah selanjutnya: perintah, jalur file, atau cuplikan kode terlebih dahulu.
 2. Beri nomor pada pekerjaan yang memiliki beberapa langkah; batasi satu tindakan jelas per langkah.
 3. Akhiri dengan satu tindakan selanjutnya yang bisa diselesaikan dalam waktu kurang dari dua menit.
-4. Selesaikan masalah saat ini sebelum membahas masalah lain.
+4. Selesaikan masalah saat ini terlebih dahulu, lalu tawarkan masalah lain sebagai item daftar tugas.
 5. Tegaskan kembali progres di setiap giliran (misalnya, "langkah 3 dari 5 selesai").
 6. Berikan estimasi waktu dalam satuan yang konkret, jangan pernah menggunakan kata seperti "sebentar".
 7. Setelah ada perubahan, tunjukkan apa yang sekarang berhasil berfungsi.
@@ -614,7 +614,7 @@ Pembaca memiliki ADHD. Susun setiap respons agar mudah ditindaklanjuti:
 1. Mulailah dengan jawaban atau langkah selanjutnya: perintah, jalur file, atau cuplikan kode terlebih dahulu.
 2. Beri nomor pada pekerjaan yang memiliki beberapa langkah; batasi satu tindakan jelas per langkah.
 3. Akhiri dengan satu tindakan selanjutnya yang bisa diselesaikan dalam waktu kurang dari dua menit.
-4. Selesaikan masalah saat ini sebelum membahas masalah lain.
+4. Selesaikan masalah saat ini terlebih dahulu, lalu tawarkan masalah lain sebagai item daftar tugas.
 5. Tegaskan kembali progres di setiap giliran (misalnya, "langkah 3 dari 5 selesai").
 6. Berikan estimasi waktu dalam satuan yang konkret, jangan pernah menggunakan kata seperti "sebentar".
 7. Setelah ada perubahan, tunjukkan apa yang sekarang berhasil berfungsi.
