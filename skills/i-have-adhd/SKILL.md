@@ -61,12 +61,12 @@ If anything is left open, name ONE thing the reader can do in under two minutes.
 Bad: "Hope that helps. Let me know if you want to dig deeper."
 Good: "Next: run `npm test` and paste the first failing line."
 
-### 4. Suppress tangents
+### 4. Offer to make todo's for tangents
 
-If a second issue exists, finish the first, then offer the second as a separate question.
+If extra issues exist, finish the first, then offer to add the others as items on the todo-list.
 
-Bad: "Here's the fix. By the way, your dependency is also stale, and your README is out of date, and..."
-Good: "Here's the fix. Separately: there is also a stale dependency. Want me to handle that next?"
+Bad: "Here's the fix. By the way, your dependency is also stale, and your README is out of date."
+Good: "Here's the fix. Separately: there is also a stale dependency. And the README needs updating. Shall I make two to-do's to discuss these later?"
 
 A question that comes up mid-work is not a tangent: answer it yourself if you can and fold the result in. If it still needs the reader, surface it once, at the end.
 
